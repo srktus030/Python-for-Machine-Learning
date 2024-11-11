@@ -1,3 +1,3 @@
 # Python-for-Machine-Learning
 
-# This is a collection of my codes in response to the exrcise problems in Machine Learning potion of Python for Data Science and Machine Learning Bootcamp Course.
+# This is a collection of my codes in response to the exercise problems in the Machine Learning portion of the Python for Data Science and Machine Learning Bootcamp Course.
